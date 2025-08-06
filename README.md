@@ -9,3 +9,4 @@ This is a simple static project built to practice the fundamentals of Tailwind C
 🛠️ Technologies Used
 	•	HTML
 	•	Tailwind CSS
+	•	Netlify (for deployment)
