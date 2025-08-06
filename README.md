@@ -1,19 +1,11 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+📄 Talk Lucha
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+With WWE acquiring the Lucha Libre brand AAA, I thought it would be fun to create a small blog-style website about Lucha Libre.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+This is a simple static project built to practice the fundamentals of Tailwind CSS and layout structure. It contains no interactivity or functionality—just a focus on styling and page layout.
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+⸻
 
-Happy Coding!
+🛠️ Technologies Used
+	•	HTML
+	•	Tailwind CSS
